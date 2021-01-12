@@ -1,0 +1,16 @@
+Name: James Plasko
+
+Compile: use 'gcc -Wall -g -o uniq uniq.c' in the command line
+
+Run Program: type './uniq' and then proceed to type what ever you want into
+the command line
+
+Explanation: The program itself compiles and runs, but it doesn't succefully 
+do what that lab wants it to do. I couldn't manage to get the adjacent line 
+to be saved in memory. I think it might be because i just dont fully understand
+realloc. After watching many videos and reading man, I figured that when I
+used it on the the previous malloc it should keep the pointer pointing at the
+old data and either copy it over to new memory while adding the new data and 
+memory, or keep the same address and just add the new data and memory. Unable
+to overcome that hurdle, I found another way that I could do it using fgetc,
+but unfortunately I ran out of time and resorted back to my first attempt.

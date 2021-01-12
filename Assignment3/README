@@ -1,0 +1,6 @@
+Name: James Plasko (jplasko)
+Compile: make all
+Run: hencode infile [ outfile ]
+     hdecode [ ( infile | - ) [ outfile ] ]
+To Know: I believe everything works, 
+         I could not get it to fail.

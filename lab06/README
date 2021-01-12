@@ -1,0 +1,4 @@
+Name: James Plasko (jplasko)
+Compile: gcc -Wall -g -o timeit timeit.c
+Run: ./timeit <seconds>
+To Know: Nothing

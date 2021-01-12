@@ -1,0 +1,4 @@
+Name: James Plasko (jplasko)
+Compile: gcc -o mypwd mypwd.c
+Run: ./mypwd
+To Know: Nothing
