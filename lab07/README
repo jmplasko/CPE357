@@ -1,0 +1,6 @@
+Name: James Plasko(jplasko)
+Compile: gcc -Wall -g -o tryit tryit.c
+         gcc -Wall -g -o forkit forkit.c
+Run: ./forkit
+     ./tryit command
+To know: N/A
